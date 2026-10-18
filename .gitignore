@@ -1,0 +1,4 @@
+manifest.csv
+copy.json
+*.tmp
+.DS_Store
