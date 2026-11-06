@@ -9,7 +9,7 @@
   "GIFT-READY – a great rooster-themed present for birthdays, housewarmings, Christmas, or any barnyard-brained friend",
   "EVERYDAY FRIENDLY – comfortable C-shaped handle, works for coffee, tea, milk, hot cocoa, hot or cold drinks"
  ],
- "description_en": "Meet your new favorite mug: a bold retro rooster design with the phrase \"Coq Au Vin\" printed on both sides, so lefties and righties both get the joke. The 11 oz ceramic body has a glossy white exterior with your choice of interior color, and the print is baked for long-lasting color. Dishwasher and microwave safe. Packed securely for safe delivery.\n\nPerfect for the early riser in your life — anyone whose alarm clock has a beak.",
+ "description_en": "Meet your new favorite mug: a bold retro rooster design with the phrase \"Coq Au Vin\" printed on both sides, so lefties and righties both get the joke. The 11 oz ceramic body has a glossy white exterior with your choice of interior color, and the print is baked for long-lasting color. Dishwasher and microwave safe. Packed securely for safe delivery. Perfect for the early riser in your life — anyone whose alarm clock has a beak.",
  "title_len": 235,
  "details": {
   "Material": "Ceramic",
@@ -20,5 +20,6 @@
   "Pattern": "Rooster",
   "Occasion": "Birthday"
  },
- "_generated_by": "169_B15文案.py"
+ "_generated_by": "169_B15文案.py",
+ "_cleaned_by": "104_上架填写包.py"
 }

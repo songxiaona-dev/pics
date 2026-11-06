@@ -9,7 +9,7 @@
   "GIFT-READY - a floral present for Mom, wives, sisters, bridesmaids, teachers and plant lovers: Mother's Day, birthdays, anniversaries, bridal showers",
   "EVERYDAY FRIENDLY - holds coffee, tea, milk, hot cocoa, iced drinks; the print keeps its depth in daily rotation"
  ],
- "description_en": "This 11 oz ceramic mug carries a butterfly approaching a half-open rose on both sides, so the bloom follows the handle whichever way it faces. Jewel-tone petals, deep green leaves and fine dark outlines give it the depth of painted glass, and the print is baked in for lasting color. Glossy white body, your choice of interior color, safe for the dishwasher and the microwave. Packed securely for safe delivery.\n\nA quiet favorite for the woman whose kitchen shelf is already full of flowers or for anyone who keeps a garden on the windowsill.",
+ "description_en": "This 11 oz ceramic mug carries a butterfly approaching a half-open rose on both sides, so the bloom follows the handle whichever way it faces. Jewel-tone petals, deep green leaves and fine dark outlines give it the depth of painted glass, and the print is baked in for lasting color. Glossy white body, your choice of interior color, safe for the dishwasher and the microwave. Packed securely for safe delivery. A quiet favorite for the woman whose kitchen shelf is already full of flowers or for anyone who keeps a garden on the windowsill.",
  "title_len": 187,
  "details": {
   "Material": "Ceramic",
@@ -20,5 +20,6 @@
   "Pattern": "Floral",
   "Occasion": "Mother's Day"
  },
- "_generated_by": "177_W9文案.py"
+ "_generated_by": "177_W9文案.py",
+ "_cleaned_by": "104_上架填写包.py"
 }

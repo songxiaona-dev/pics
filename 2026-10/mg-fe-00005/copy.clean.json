@@ -9,7 +9,7 @@
   "GIFT-READY - a star-spangled present for July 4th, Veterans Day, Memorial Day, housewarmings, or any proud American",
   "EVERYDAY FRIENDLY - comfortable C-shaped handle, works for coffee, tea, milk, hot cocoa, hot or cold drinks"
  ],
- "description_en": "Celebrate 250 years with a mug that says it plainly: sweet liberty lettering with a torch and stars wraps this 11 oz ceramic cup in red, white and navy, printed on both sides so the design shows from any angle. Glossy white body, your choice of interior color, and a print baked for long-lasting color. Dishwasher and microwave safe. Packed securely for safe delivery.\n\nPerfect for the flag-on-the-porch household, the history buff, and anyone raising a cup to the land of the free.",
+ "description_en": "Celebrate 250 years with a mug that says it plainly: sweet liberty lettering with a torch and stars wraps this 11 oz ceramic cup in red, white and navy, printed on both sides so the design shows from any angle. Glossy white body, your choice of interior color, and a print baked for long-lasting color. Dishwasher and microwave safe. Packed securely for safe delivery. Perfect for the flag-on-the-porch household, the history buff, and anyone raising a cup to the land of the free.",
  "title_len": 184,
  "details": {
   "Material": "Ceramic",
@@ -20,5 +20,6 @@
   "Pattern": "Patriotic",
   "Occasion": "July 4th"
  },
- "_generated_by": "175_B16文案.py"
+ "_generated_by": "175_B16文案.py",
+ "_cleaned_by": "104_上架填写包.py"
 }
